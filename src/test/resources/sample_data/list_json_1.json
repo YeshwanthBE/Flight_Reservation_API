@@ -1,0 +1,40 @@
+[
+  {
+    "plane": {
+      "type": "adipiscing",
+      "totalSeats": 92,
+      "": {
+        
+      }
+    },
+    "code": "amet,",
+    "price": 99.22,
+    "origin": "voluptas",
+    "destination": "iste",
+    "ID": 69,
+    "departureDate": "dolorem",
+    "emptySeats": 43,
+    "": {
+      
+    }
+  },
+  {
+    "plane": {
+      "type": "adipisci",
+      "totalSeats": 18,
+      "": {
+        
+      }
+    },
+    "code": "iste",
+    "price": 69.18,
+    "origin": "aute",
+    "destination": "molestiae",
+    "ID": 46,
+    "departureDate": "exercitationem",
+    "emptySeats": 85,
+    "": {
+      
+    }
+  }
+]
